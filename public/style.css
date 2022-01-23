@@ -1,0 +1,17 @@
+/*color palletes */
+/*#041562 #EEEEEE*/
+
+body{
+    font-family: 'Cinzel', serif;
+    background-color: #EEEEEE;
+    color: #041562;
+    text-align: center;
+}
+.ball{
+    width: 40%;
+    border-radius: 100%;
+}
+
+.game-over{
+    color: maroon;
+}
